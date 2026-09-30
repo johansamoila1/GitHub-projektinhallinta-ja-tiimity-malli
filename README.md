@@ -1,3 +1,9 @@
+## Asennus ja käynnistäminen (suomeksi)
+
+1. Asenna projektin riippuvuudet komennolla `npm install`.
+2. Käynnistä kehityspalvelin komennolla `npm start`.
+3. Avaa selaimessa osoite `http://localhost:4200/`.
+
 # AngularExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
